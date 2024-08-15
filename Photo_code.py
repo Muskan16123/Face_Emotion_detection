@@ -1,3 +1,7 @@
+'''
+Face Emotion Detection using pictures
+''''
+
 import cv2
 import matplotlib.pyplot as plt
 from deepface import DeepFace
