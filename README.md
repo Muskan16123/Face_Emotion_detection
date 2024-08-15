@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muskan16123
-- 👀 I’m interested in Competitive programming.
-- 🌱 I’m currently learning DSA and more about Deep Learning.
+- 👀 I’m interested in AI products.
+- 🌱 I’m currently more about Deep Learning.
 - 💞️ I’m looking to collaborate for research projects.
 
 <!---
